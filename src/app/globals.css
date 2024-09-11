@@ -31,6 +31,8 @@ a {
   justify-content: space-between;
   align-items: center;
   padding: 5px 80px;
+  position: relative;
+  z-index: 20;
 
   .navbar-image {
     display: flex;
